@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+ctfhmHl5sSnLZRUPqmDOeq48c7QiuuCHpp+HH8jrHA=",
+  "Source": "RestaurantSystemManagement",
+  "BasePath": "_content/RestaurantSystemManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

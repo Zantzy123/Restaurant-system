@@ -1,0 +1,96 @@
+﻿  Customer.cpp
+  InventoryItem.cpp
+  Main.cpp
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\MenuItem.cpp(5,7): error C2011: 'MenuItem': 'class' type redefinition
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(65,21): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(79,32): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(94,31): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(95,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(96,36): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(111,49): error C2027: use of undefined type 'MenuItem'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\vector(1721,9): error C2139: 'MenuItem': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_nothrow_assignable'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(133,49): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,52): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039: 'name': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,54): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,35): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039: 'name': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,31): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(180,57): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,45): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(223,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(223,56): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(272,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(272,56): error C2027: use of undefined type 'MenuItem'
+  MenuItem.cpp
+  Order.cpp
+  Reservation.cpp
+  RestaurantSystem.cpp
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\MenuItem.cpp(5,7): error C2011: 'MenuItem': 'class' type redefinition
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(65,21): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(79,32): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(94,31): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(95,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(96,36): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(111,49): error C2027: use of undefined type 'MenuItem'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\vector(1721,9): error C2139: 'MenuItem': an undefined class is not allowed as an argument to compiler intrinsic type trait '__is_nothrow_assignable'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(133,49): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,52): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039: 'name': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(140,56): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,54): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(143,58): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,35): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039: 'name': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(146,39): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,31): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(147,35): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(180,57): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,45): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039: 'price': is not a member of 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         with
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         [
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:             _Ty=MenuItem
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(188,55): error C2039:         ]
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(223,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(223,56): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(272,34): error C2027: use of undefined type 'MenuItem'
+C:\Users\ASUS\source\repos\RestaurantSystemManagement\RestaurantSystemManagement\RestaurantSystem.cpp(272,56): error C2027: use of undefined type 'MenuItem'
+  Generating Code...
